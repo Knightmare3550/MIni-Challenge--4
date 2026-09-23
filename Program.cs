@@ -16,5 +16,16 @@ else
 {
     Console.WriteLine("The first number is equal to the second number.");
 }
-
+if(secondNumber > firstNumber)
+{
+    Console.WriteLine("The second number is greater than the first number.");
+}
+else if(secondNumber < firstNumber)
+{
+    Console.WriteLine("The second number is less than the first number.");
+}
+else
+{
+    Console.WriteLine("The second number is equal to the first number.");
+}
 

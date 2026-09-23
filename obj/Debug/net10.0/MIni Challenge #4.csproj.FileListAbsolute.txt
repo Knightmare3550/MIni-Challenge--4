@@ -12,3 +12,4 @@ C:\Users\jaime\MIni Challenge #4\obj\Debug\net10.0\refint\MIni Challenge #4.dll
 C:\Users\jaime\MIni Challenge #4\obj\Debug\net10.0\MIni Challenge #4.pdb
 C:\Users\jaime\MIni Challenge #4\obj\Debug\net10.0\MIni Challenge #4.genruntimeconfig.cache
 C:\Users\jaime\MIni Challenge #4\obj\Debug\net10.0\ref\MIni Challenge #4.dll
+C:\Users\jaime\MIni Challenge #4\obj\Debug\net10.0\MIni Challenge #4.sourcelink.json
